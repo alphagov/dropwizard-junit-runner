@@ -1,4 +1,9 @@
 # Dropwizard JUnit Runner
+
+>**GOV.UK Verify has closed**
+>
+>This repository is out of date and has been archived
+
 > JUnit Runner implementation that starts up [DropwizardTestSupport](http://www.dropwizard.io/1.2.0/docs/manual/testing.html) 
 > applications globally based on the provided configuration
 
@@ -33,7 +38,7 @@ public class MyClassTest {
     
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[Goverment Digital Service](https://github.com/alphagov)
+[Government Digital Service](https://github.com/alphagov)
 
 ## Contributing
 
